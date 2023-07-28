@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
-
+  
     let funFacts = ["I love to listen to music and my favorite artists are Drake and Taylor Swift", "I love to paint", "I have two dogs named Lulu and Steve", "My favorite food is sushi", "I live in Marin County, CA", "I love STEM and english", "I am a rising senior in high school","my favorite subject is APES","My favorite show is gossip girl","I like to go on hikes", "I play volleyball"]
     
     @State private var currentFunFact = "learn more:)"
